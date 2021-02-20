@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StorageApp</string>
+    <string name="storage">Storage</string>
+    <string name="Remote">Remote</string>
+    <string name="refresh">Refresh</string>
+    <string name="back">Back</string>
+</resources>
